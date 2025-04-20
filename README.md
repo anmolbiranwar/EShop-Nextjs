@@ -38,7 +38,7 @@ The API is being handled by Next API routes.
 
 ![Next Ecommerce screenshot](https://lucaspulliese.com/wp-content/uploads/2020/09/ecommerce-2.jpg)
 
-## New features added - Nov 2024
+## New features added - March 2025
 
 - Updated Next version.
 - Added eslint config.
